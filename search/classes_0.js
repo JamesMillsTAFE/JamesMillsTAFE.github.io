@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['irunnable_19',['IRunnable',['../d3/dd0/interface_null_framework_exception_1_1_i_runnable.html',1,'NullFrameworkException']]]
+  ['crossplatforminput_0',['CrossPlatformInput',['../d1/d28/class_it_just_works_1_1_cross_platform_1_1_cross_platform_input.html',1,'ItJustWorks::CrossPlatform']]]
 ];

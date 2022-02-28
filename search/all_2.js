@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getswipe_3',['GetSwipe',['../df/d6d/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler.html#a68769f04276e01e55328e60c910917b8',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler']]]
+  ['getmovementaxis_0',['GetMovementAxis',['../d1/d28/class_it_just_works_1_1_cross_platform_1_1_cross_platform_input.html#afbfb8eebc15a28ae2f248f38e90bb852',1,'ItJustWorks::CrossPlatform::CrossPlatformInput']]]
 ];

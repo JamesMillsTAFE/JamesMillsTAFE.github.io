@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['inputhandling_11',['InputHandling',['../d0/d14/namespace_null_framework_exception_1_1_mobile_1_1_input_handling.html',1,'NullFrameworkException::Mobile']]],
-  ['mobile_12',['Mobile',['../df/d95/namespace_null_framework_exception_1_1_mobile.html',1,'NullFrameworkException']]],
-  ['nullframeworkexception_13',['NullFrameworkException',['../da/d69/namespace_null_framework_exception.html',1,'']]]
+  ['process_0',['Process',['../d2/d61/class_it_just_works_1_1_cross_platform_1_1_input_handler.html#aa5943defa07e983d89812fd12755c12b',1,'ItJustWorks.CrossPlatform.InputHandler.Process()'],['../db/dbb/class_it_just_works_1_1_cross_platform_1_1_mobile_joystick_handler.html#aba07c435abfd037a3463cf4c70e92df0',1,'ItJustWorks.CrossPlatform.MobileJoystickHandler.Process()']]]
 ];

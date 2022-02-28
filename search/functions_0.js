@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['createinstance_30',['CreateInstance',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#a4e041de0e9f81aac4b871b830e6f7c1c',1,'NullFrameworkException::MonoSingleton']]]
+  ['getmovementaxis_0',['GetMovementAxis',['../d1/d28/class_it_just_works_1_1_cross_platform_1_1_cross_platform_input.html#afbfb8eebc15a28ae2f248f38e90bb852',1,'ItJustWorks::CrossPlatform::CrossPlatformInput']]]
 ];

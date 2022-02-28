@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['runnablebehaviour_24',['RunnableBehaviour',['../dd/d99/class_null_framework_exception_1_1_runnable_behaviour.html',1,'NullFrameworkException']]]
+  ['singleton_0',['Singleton',['../df/df5/class_it_just_works_1_1_singleton.html',1,'ItJustWorks']]],
+  ['singleton_3c_20crossplatforminput_20_3e_1',['Singleton&lt; CrossPlatformInput &gt;',['../df/df5/class_it_just_works_1_1_singleton.html',1,'ItJustWorks']]]
 ];
